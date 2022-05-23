@@ -1,0 +1,762 @@
+[
+ {
+  "maToHop": "A00",
+  "toHop": "Toán, Vật Lý, Hóa Học"
+ },
+ {
+  "maToHop": "A01",
+  "toHop": "Toán, Vật Lý, Tiếng Anh"
+ },
+ {
+  "maToHop": "A02",
+  "toHop": "Toán, Vật Lý, Sinh học"
+ },
+ {
+  "maToHop": "A03",
+  "toHop": "Toán, Vật Lý, Lịch sử"
+ },
+ {
+  "maToHop": "A04",
+  "toHop": "Toán, Vật Lý, Địa Lý"
+ },
+ {
+  "maToHop": "A05",
+  "toHop": "Toán, Hóa học, Lịch sử"
+ },
+ {
+  "maToHop": "A06",
+  "toHop": "Toán, Hóa học, Địa Lý"
+ },
+ {
+  "maToHop": "A07",
+  "toHop": "Toán, Lịch sử, Địa Lý"
+ },
+ {
+  "maToHop": "A08",
+  "toHop": "Toán, Lịch sử, Giáo dục công dân"
+ },
+ {
+  "maToHop": "A09",
+  "toHop": "Toán, Địa lý, Giáo dục công dân"
+ },
+ {
+  "maToHop": "A10",
+  "toHop": "Toán, Lý, Giáo dục công dân"
+ },
+ {
+  "maToHop": "A11",
+  "toHop": "Toán, Hóa, Giáo dục công dân"
+ },
+ {
+  "maToHop": "A12",
+  "toHop": "Toán, Khoa học tự nhiên, KH xã hội"
+ },
+ {
+  "maToHop": "A14",
+  "toHop": "Toán, Khoa học tự nhiên, Địa Lý"
+ },
+ {
+  "maToHop": "A15",
+  "toHop": "Toán, Khoa học tự nhiên, Địa Lý"
+ },
+ {
+  "maToHop": "A16",
+  "toHop": "Toán, Khoa học tự nhiên, Ngữ văn"
+ },
+ {
+  "maToHop": "A17",
+  "toHop": "Toán, Vật lý, Khoa học xã hội"
+ },
+ {
+  "maToHop": "A18",
+  "toHop": "Toán, Hoá học, Khoa học xã hội"
+ },
+ {
+  "maToHop": "B00",
+  "toHop": "Toán, Hóa Học, Sinh Học"
+ },
+ {
+  "maToHop": "B01",
+  "toHop": "Toán, Sinh học, Lịch sử"
+ },
+ {
+  "maToHop": "B02",
+  "toHop": "Toán, Sinh học, Địa Lý"
+ },
+ {
+  "maToHop": "B03",
+  "toHop": "Toán, Sinh học, Ngữ văn"
+ },
+ {
+  "maToHop": "B04",
+  "toHop": "Toán, Sinh học, Giáo dục công dân"
+ },
+ {
+  "maToHop": "B05",
+  "toHop": "Toán, Sinh học, Khoa học xã hội"
+ },
+ {
+  "maToHop": "B08",
+  "toHop": "Toán, Sinh học, Tiếng Anh"
+ },
+ {
+  "maToHop": "C00",
+  "toHop": "Ngữ Văn, Lịch Sử, Địa Lý"
+ },
+ {
+  "maToHop": "C01",
+  "toHop": "Ngữ văn, Toán, Vật Lý"
+ },
+ {
+  "maToHop": "C02",
+  "toHop": "Ngữ văn, Toán, Hóa học"
+ },
+ {
+  "maToHop": "C03",
+  "toHop": "Ngữ văn, Toán, Lịch sử"
+ },
+ {
+  "maToHop": "C04",
+  "toHop": "Ngữ văn, Toán, Địa Lý"
+ },
+ {
+  "maToHop": "C05",
+  "toHop": "Ngữ văn, Vật Lý, Hóa học"
+ },
+ {
+  "maToHop": "C06",
+  "toHop": "Ngữ văn, Vật Lý, Sinh học"
+ },
+ {
+  "maToHop": "C07",
+  "toHop": "Ngữ văn, Vật Lý, Lịch sử"
+ },
+ {
+  "maToHop": "C08",
+  "toHop": "Ngữ văn, Hóa học, Sinh học"
+ },
+ {
+  "maToHop": "C09",
+  "toHop": "Ngữ văn, Vật Lý, Địa Lý"
+ },
+ {
+  "maToHop": "C10",
+  "toHop": "Ngữ văn, Hóa học, Lịch sử"
+ },
+ {
+  "maToHop": "C12",
+  "toHop": "Ngữ văn, Sinh học, Lịch sử"
+ },
+ {
+  "maToHop": "C13",
+  "toHop": "Ngữ văn, Sinh học, Địa Lý"
+ },
+ {
+  "maToHop": "C14",
+  "toHop": "Ngữ văn, Toán, Giáo dục công dân"
+ },
+ {
+  "maToHop": "C15",
+  "toHop": "Ngữ văn, Toán, Khoa học Xã hội"
+ },
+ {
+  "maToHop": "C16",
+  "toHop": "Ngữ văn, Vật Lý, Giáo dục công dân"
+ },
+ {
+  "maToHop": "C17",
+  "toHop": "Ngữ văn, Hóa học, Giáo dục công dân"
+ },
+ {
+  "maToHop": "C19",
+  "toHop": "Ngữ văn, Lịch sử, Giáo dục công dân"
+ },
+ {
+  "maToHop": "C20",
+  "toHop": "Ngữ văn, Địa Lý, Giáo dục công dân"
+ },
+ {
+  "maToHop": "D01",
+  "toHop": "Ngữ Văn, Toán, Tiếng Anh"
+ },
+ {
+  "maToHop": "D02",
+  "toHop": "Ngữ Văn, Toán, Tiếng Nga"
+ },
+ {
+  "maToHop": "D03",
+  "toHop": "Ngữ văn, Toán, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D04",
+  "toHop": "Ngữ văn, Toán, Tiếng Trung"
+ },
+ {
+  "maToHop": "D05",
+  "toHop": "Ngữ văn, Toán, Tiếng Đức"
+ },
+ {
+  "maToHop": "D06",
+  "toHop": "Ngữ văn, Toán, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D07",
+  "toHop": "Toán, Hóa học, Tiếng Anh"
+ },
+ {
+  "maToHop": "D08",
+  "toHop": "Toán, Sinh học, Tiếng Anh"
+ },
+ {
+  "maToHop": "D09",
+  "toHop": "Toán, Lịch sử, Tiếng Anh"
+ },
+ {
+  "maToHop": "D10",
+  "toHop": "Toán, Địa Lý, Tiếng Anh"
+ },
+ {
+  "maToHop": "D11",
+  "toHop": "Ngữ văn, Vật Lý, Tiếng Anh"
+ },
+ {
+  "maToHop": "D12",
+  "toHop": "Ngữ văn, Hóa học, Tiếng Anh"
+ },
+ {
+  "maToHop": "D13",
+  "toHop": "Ngữ văn, Sinh học, Tiếng Anh"
+ },
+ {
+  "maToHop": "D14",
+  "toHop": "Ngữ văn, Lịch sử, Tiếng Anh"
+ },
+ {
+  "maToHop": "D15",
+  "toHop": "Ngữ văn, Địa Lý, Tiếng Anh"
+ },
+ {
+  "maToHop": "D16",
+  "toHop": "Toán, Địa Lý, Tiếng Đức"
+ },
+ {
+  "maToHop": "D17",
+  "toHop": "Toán, Địa Lý, Tiếng Nga"
+ },
+ {
+  "maToHop": "D18",
+  "toHop": "Toán, Địa Lý, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D19",
+  "toHop": "Toán, Địa Lý, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D20",
+  "toHop": "Toán, Địa Lý, Tiếng Trung"
+ },
+ {
+  "maToHop": "D21",
+  "toHop": "Toán, Hóa học, Tiếng Đức"
+ },
+ {
+  "maToHop": "D22",
+  "toHop": "Toán, Hóa học, Tiếng Nga"
+ },
+ {
+  "maToHop": "D23",
+  "toHop": "Toán, Hóa học, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D24",
+  "toHop": "Toán, Hóa học, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D25",
+  "toHop": "Toán, Hóa học, Tiếng Trung"
+ },
+ {
+  "maToHop": "D26",
+  "toHop": "Toán, Vật Lý, Tiếng Đức"
+ },
+ {
+  "maToHop": "D27",
+  "toHop": "Toán, Vật Lý, Tiếng Nga"
+ },
+ {
+  "maToHop": "D28",
+  "toHop": "Toán, Vật Lý, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D29",
+  "toHop": "Toán, Vật Lý, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D30",
+  "toHop": "Toán, Vật Lý, Tiếng Trung"
+ },
+ {
+  "maToHop": "D31",
+  "toHop": "Toán, Sinh học, Tiếng Đức"
+ },
+ {
+  "maToHop": "D32",
+  "toHop": "Toán, Sinh học, Tiếng Nga"
+ },
+ {
+  "maToHop": "D33",
+  "toHop": "Toán, Sinh học, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D34",
+  "toHop": "Toán, Sinh học, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D35",
+  "toHop": "Toán, Sinh học, Tiếng Trung"
+ },
+ {
+  "maToHop": "D41",
+  "toHop": "Ngữ văn, Địa Lý, Tiếng Đức"
+ },
+ {
+  "maToHop": "D42",
+  "toHop": "Ngữ văn, Địa Lý, Tiếng Nga"
+ },
+ {
+  "maToHop": "D43",
+  "toHop": "Ngữ văn, Địa Lý, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D44",
+  "toHop": "Ngữ văn, Địa Lý, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D45",
+  "toHop": "Ngữ văn, Địa Lý, Tiếng Trung"
+ },
+ {
+  "maToHop": "D52",
+  "toHop": "Ngữ văn, Vật Lý, Tiếng Nga"
+ },
+ {
+  "maToHop": "D54",
+  "toHop": "Ngữ văn, Vật Lý, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D55",
+  "toHop": "Ngữ văn, Vật Lý, Tiếng Trung"
+ },
+ {
+  "maToHop": "D61",
+  "toHop": "Ngữ văn, Lịch sử, Tiếng Đức"
+ },
+ {
+  "maToHop": "D62",
+  "toHop": "Ngữ văn, Lịch sử, Tiếng Nga"
+ },
+ {
+  "maToHop": "D63",
+  "toHop": "Ngữ văn, Lịch sử, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D64",
+  "toHop": "Ngữ văn, Lịch sử, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D65",
+  "toHop": "Ngữ văn, Lịch sử, Tiếng Trung"
+ },
+ {
+  "maToHop": "D66",
+  "toHop": "Ngữ văn, Giáo dục công dân, Tiếng Anh"
+ },
+ {
+  "maToHop": "D68",
+  "toHop": "Ngữ văn, Giáo dục công dân, Tiếng Nga"
+ },
+ {
+  "maToHop": "D69",
+  "toHop": "Ngữ Văn, Giáo dục công dân, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D70",
+  "toHop": "Ngữ Văn, Giáo dục công dân, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D72",
+  "toHop": "Ngữ văn, Khoa học tự nhiên, Tiếng Anh"
+ },
+ {
+  "maToHop": "D73",
+  "toHop": "Ngữ văn, Khoa học tự nhiên, Tiếng Đức"
+ },
+ {
+  "maToHop": "D74",
+  "toHop": "Ngữ văn, Khoa học tự nhiên, Tiếng Nga"
+ },
+ {
+  "maToHop": "D75",
+  "toHop": "Ngữ văn, Khoa học tự nhiên, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D76",
+  "toHop": "Ngữ văn, Khoa học tự nhiên, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D77",
+  "toHop": "Ngữ văn, Khoa học tự nhiên, Tiếng Trung"
+ },
+ {
+  "maToHop": "D78",
+  "toHop": "Ngữ văn, Khoa học xã hội, Tiếng Anh"
+ },
+ {
+  "maToHop": "D79",
+  "toHop": "Ngữ văn, Khoa học xã hội, Tiếng Đức"
+ },
+ {
+  "maToHop": "D80",
+  "toHop": "Ngữ văn, Khoa học xã hội, Tiếng Nga"
+ },
+ {
+  "maToHop": "D81",
+  "toHop": "Ngữ văn, Khoa học xã hội, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D82",
+  "toHop": "Ngữ văn, Khoa học xã hội, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D83",
+  "toHop": "Ngữ văn, Khoa học xã hội, Tiếng Trung"
+ },
+ {
+  "maToHop": "D84",
+  "toHop": "Toán, Giáo dục công dân, Tiếng Anh"
+ },
+ {
+  "maToHop": "D85",
+  "toHop": "Toán, Giáo dục công dân, Tiếng Đức"
+ },
+ {
+  "maToHop": "D86",
+  "toHop": "Toán, Giáo dục công dân, Tiếng Nga"
+ },
+ {
+  "maToHop": "D87",
+  "toHop": "Toán, Giáo dục công dân, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D88",
+  "toHop": "Toán, Giáo dục công dân, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D90",
+  "toHop": "Toán, Khoa học tự nhiên, Tiếng Anh"
+ },
+ {
+  "maToHop": "D91",
+  "toHop": "Toán, Khoa học tự nhiên, Tiếng Pháp"
+ },
+ {
+  "maToHop": "D92",
+  "toHop": "Toán, Khoa học tự nhiên, Tiếng Đức"
+ },
+ {
+  "maToHop": "D93",
+  "toHop": "Toán, Khoa học tự nhiên, Tiếng Nga"
+ },
+ {
+  "maToHop": "D94",
+  "toHop": "Toán, Khoa học tự nhiên, Tiếng Nhật"
+ },
+ {
+  "maToHop": "D95",
+  "toHop": "Toán, Khoa học tự nhiên, Tiếng Trung"
+ },
+ {
+  "maToHop": "D96",
+  "toHop": "Toán, Khoa học xã hội, Anh"
+ },
+ {
+  "maToHop": "D97",
+  "toHop": "Toán, Khoa học xã hội, Anh"
+ },
+ {
+  "maToHop": "D98",
+  "toHop": "Toán, Khoa học xã hội, Tiếng Đức"
+ },
+ {
+  "maToHop": "D99",
+  "toHop": "Toán, Khoa học xã hội, Tiếng Nga"
+ },
+ {
+  "maToHop": "H00",
+  "toHop": "Ngữ văn, Năng khiếu vẽ Nghệ thuật 1, Năng khiếu vẽ Nghệ thuật 2"
+ },
+ {
+  "maToHop": "H01",
+  "toHop": "Toán, Ngữ văn, Vẽ"
+ },
+ {
+  "maToHop": "H02",
+  "toHop": "Toán, Vẽ Hình họa mỹ thuật, Vẽ trang trí màu"
+ },
+ {
+  "maToHop": "H03",
+  "toHop": "Toán, Khoa học tự nhiên, Vẽ Năng khiếu"
+ },
+ {
+  "maToHop": "H04",
+  "toHop": "Toán, Tiếng Anh, Vẽ Năng khiếu"
+ },
+ {
+  "maToHop": "H05",
+  "toHop": "Ngữ văn, Khoa học xã hội, Vẽ Năng khiếu"
+ },
+ {
+  "maToHop": "H06",
+  "toHop": "Ngữ văn, Tiếng Anh,Vẽ mỹ thuật"
+ },
+ {
+  "maToHop": "H07",
+  "toHop": "Toán, Hình họa, Trang trí"
+ },
+ {
+  "maToHop": "H08",
+  "toHop": "Ngữ văn, Lịch sử, Vẽ mỹ thuật"
+ },
+ {
+  "maToHop": "K01",
+  "toHop": "Toán, Tiếng Anh, Tin học"
+ },
+ {
+  "maToHop": "M00",
+  "toHop": "Ngữ văn, Toán, Đọc diễn cảm, Hát"
+ },
+ {
+  "maToHop": "M01",
+  "toHop": "Ngữ văn, Lịch sử, Năng khiếu"
+ },
+ {
+  "maToHop": "M02",
+  "toHop": "Toán, Năng khiếu 1, Năng khiếu 2"
+ },
+ {
+  "maToHop": "M03",
+  "toHop": "Văn, Năng khiếu 1, Năng khiếu 2"
+ },
+ {
+  "maToHop": "M04",
+  "toHop": "Toán, Đọc kể diễn cảm, Hát – Múa"
+ },
+ {
+  "maToHop": "M09",
+  "toHop": "Toán, NK Mầm non 1( kể chuyện, đọc, diễn cảm), NK Mầm non 2 (Hát)"
+ },
+ {
+  "maToHop": "M10",
+  "toHop": "Toán, Tiếng Anh, NK1"
+ },
+ {
+  "maToHop": "M11",
+  "toHop": "Ngữ văn, Năng khiếu báo chí, Tiếng Anh"
+ },
+ {
+  "maToHop": "M13",
+  "toHop": "Toán, Sinh học, Năng khiếu"
+ },
+ {
+  "maToHop": "M14",
+  "toHop": "Ngữ văn, Năng khiếu báo chí, Toán"
+ },
+ {
+  "maToHop": "M15",
+  "toHop": "Ngữ văn, Năng khiếu báo chí, Tiếng Anh"
+ },
+ {
+  "maToHop": "M16",
+  "toHop": "Ngữ văn, Năng khiếu báo chí, Vật lý"
+ },
+ {
+  "maToHop": "M17",
+  "toHop": "Ngữ văn, Năng khiếu báo chí, Lịch sử"
+ },
+ {
+  "maToHop": "M18",
+  "toHop": "Ngữ văn, Năng khiếu Ảnh báo chí, Toán"
+ },
+ {
+  "maToHop": "M19",
+  "toHop": "Ngữ văn, Năng khiếu Ảnh báo chí, Tiếng Anh"
+ },
+ {
+  "maToHop": "M20",
+  "toHop": "Ngữ văn, Năng khiếu Ảnh báo chí, Vật lý"
+ },
+ {
+  "maToHop": "M21",
+  "toHop": "Ngữ văn, Năng khiếu Ảnh báo chí, Lịch sử"
+ },
+ {
+  "maToHop": "M22",
+  "toHop": "Ngữ văn, Năng khiếu quay phim truyền hình, Toán"
+ },
+ {
+  "maToHop": "M23",
+  "toHop": "Ngữ văn, Năng khiếu quay phim truyền hình, Tiếng Ạnh"
+ },
+ {
+  "maToHop": "M24",
+  "toHop": "Ngữ văn, Năng khiếu quay phim truyền hình, Vật lý"
+ },
+ {
+  "maToHop": "M25",
+  "toHop": "Ngữ văn, Năng khiếu quay phim truyền hình, Lịch sử"
+ },
+ {
+  "maToHop": "N00",
+  "toHop": "Ngữ văn, Năng khiếu Âm nhạc 1, Năng khiếu Âm nhạc 2"
+ },
+ {
+  "maToHop": "N01",
+  "toHop": "Ngữ văn, xướng âm, biểu diễn nghệ thuật"
+ },
+ {
+  "maToHop": "N02",
+  "toHop": "Ngữ văn, Ký xướng âm, Hát hoặc biểu diễn nhạc cụ"
+ },
+ {
+  "maToHop": "N03",
+  "toHop": "Ngữ văn, Ghi âm- xướng âm, chuyên môn"
+ },
+ {
+  "maToHop": "N04",
+  "toHop": "Ngữ Văn, Năng khiếu thuyết trình, Năng khiếu"
+ },
+ {
+  "maToHop": "N05",
+  "toHop": "Ngữ Văn, Xây dựng kịch bản sự kiện, Năng khiếu"
+ },
+ {
+  "maToHop": "N06",
+  "toHop": "Ngữ văn, Ghi âm- xướng âm, chuyên môn"
+ },
+ {
+  "maToHop": "N07",
+  "toHop": "Ngữ văn, Ghi âm- xướng âm, chuyên môn"
+ },
+ {
+  "maToHop": "N08",
+  "toHop": "Ngữ văn , Hòa thanh, Phát triển chủ đề và phổ thơ"
+ },
+ {
+  "maToHop": "N09",
+  "toHop": "Ngữ văn, Hòa thanh, Bốc thăm đề- chỉ huy tại chỗ"
+ },
+ {
+  "maToHop": "R00",
+  "toHop": "Ngữ văn, Lịch sử, Năng khiếu báo chí"
+ },
+ {
+  "maToHop": "R01",
+  "toHop": "Ngữ văn, Địa lý, Năng khiếu Biểu diễn nghệ thuật"
+ },
+ {
+  "maToHop": "R02",
+  "toHop": "Ngữ văn, Toán, Năng khiếu Biểu diễn nghệ thuật"
+ },
+ {
+  "maToHop": "R03",
+  "toHop": "Ngữ văn, tiếng Anh, Năng khiếu Biểu diễn nghệ thuật"
+ },
+ {
+  "maToHop": "R04",
+  "toHop": "Ngữ văn, Năng khiếu Biểu diễn nghệ thuật, Năng khiếu Kiến thức văn hóa – xã hội – nghệ thuật"
+ },
+ {
+  "maToHop": "R05",
+  "toHop": "Ngữ văn, tiếng Anh, Năng khiếu kiến thức truyền thông"
+ },
+ {
+  "maToHop": "S00",
+  "toHop": "Ngữ văn, Năng khiếu SKĐA 1, Năng khiếu SKĐA 2"
+ },
+ {
+  "maToHop": "S01",
+  "toHop": "Toán, Năng khiếu 1, Năng khiếu 2"
+ },
+ {
+  "maToHop": "T00",
+  "toHop": "Toán, Sinh học, Năng khiếu TDTT"
+ },
+ {
+  "maToHop": "T01",
+  "toHop": "Toán, Ngữ văn, Năng khiếu TDTT"
+ },
+ {
+  "maToHop": "T02",
+  "toHop": "Ngữ văn, Sinh, Năng khiếu TDTT"
+ },
+ {
+  "maToHop": "T03",
+  "toHop": "Ngữ văn, Địa, Năng khiếu TDTT"
+ },
+ {
+  "maToHop": "T04",
+  "toHop": "Toán, Lý, Năng khiếu TDTT"
+ },
+ {
+  "maToHop": "T05",
+  "toHop": "Ngữ văn, Giáo dục công dân, Năng kiếu"
+ },
+ {
+  "maToHop": "V00",
+  "toHop": "Toán, Vật Lý, Vẽ"
+ },
+ {
+  "maToHop": "V01",
+  "toHop": "Toán, Ngữ văn, Vẽ"
+ },
+ {
+  "maToHop": "V02",
+  "toHop": "VẼ MT, Toán, Tiếng Anh"
+ },
+ {
+  "maToHop": "V03",
+  "toHop": "VẼ MT, Toán, Hóa"
+ },
+ {
+  "maToHop": "V04",
+  "toHop": "Ngữ văn, Vật Lý, Vẽ"
+ },
+ {
+  "maToHop": "V05",
+  "toHop": "Ngữ văn, Vật Lý, Vẽ"
+ },
+ {
+  "maToHop": "V06",
+  "toHop": "Toán, Địa Lý, Vẽ"
+ },
+ {
+  "maToHop": "V07",
+  "toHop": "Toán, tiếng Đức, Vẽ"
+ },
+ {
+  "maToHop": "V08",
+  "toHop": "Toán, tiếng Nga, Vẽ"
+ },
+ {
+  "maToHop": "V09",
+  "toHop": "Toán, tiếng Nhật, Vẽ"
+ },
+ {
+  "maToHop": "V10",
+  "toHop": "Toán, tiếng Pháp, Vẽ"
+ },
+ {
+  "maToHop": "V11",
+  "toHop": "Toán, tiếng Trung, Vẽ"
+ }
+]

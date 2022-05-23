@@ -1,0 +1,50 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"confirm_THPT\"}}]": "AskCombinationOfSubjectsDetailConfirmTHPT",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"confirm_THPT\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjectsDetailConfirmTHPT\"}, \"user\": {\"intent\": \"confirm_THPT\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_major\"}}]": "action_major",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_major\"}}, {\"prev_action\": {\"action_name\": \"action_major\"}, \"user\": {\"intent\": \"ask_major\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailHB\"}}]": "AskCombinationOfSubjectsDetailHB",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailHB\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjectsDetailHB\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailHB\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailTHPT\"}}]": "AskCombinationOfSubjectsDetailTHPT",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailTHPT\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjectsDetailTHPT\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailTHPT\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_majors\"}}]": "action_all_majors",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_majors\"}}, {\"prev_action\": {\"action_name\": \"action_all_majors\"}, \"user\": {\"intent\": \"ask_majors\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects\"}}]": "AskCombinationOfSubjects",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjects\"}, \"user\": {\"intent\": \"ask_combination_of_subjects\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"confirm_HB\"}}]": "AskCombinationOfSubjectsDetailConfirmHB",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"confirm_HB\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjectsDetailConfirmHB\"}, \"user\": {\"intent\": \"confirm_HB\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_information_university\"}}]": "action_university_information",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_information_university\"}}, {\"prev_action\": {\"action_name\": \"action_university_information\"}, \"user\": {\"intent\": \"ask_information_university\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detail\"}}]": "AskCombinationOfSubjectsDetail",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detail\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjectsDetail\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detail\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [],
+    "rules_for_loop_unhappy_path": {},
+    "rules_not_in_stories": [
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"confirm_HB\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_information_university\"}}, {\"prev_action\": {\"action_name\": \"action_university_information\"}, \"user\": {\"intent\": \"ask_information_university\"}}]",
+      "predicting default action with intent session_start",
+      "predicting default action with intent back",
+      "predicting default action with intent restart",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailTHPT\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjectsDetailTHPT\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailTHPT\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detail\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"confirm_HB\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjectsDetailConfirmHB\"}, \"user\": {\"intent\": \"confirm_HB\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_majors\"}}, {\"prev_action\": {\"action_name\": \"action_all_majors\"}, \"user\": {\"intent\": \"ask_majors\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_information_university\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailHB\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"confirm_THPT\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailTHPT\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_major\"}}, {\"prev_action\": {\"action_name\": \"action_major\"}, \"user\": {\"intent\": \"ask_major\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detail\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjectsDetail\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detail\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_majors\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"confirm_THPT\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjectsDetailConfirmTHPT\"}, \"user\": {\"intent\": \"confirm_THPT\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailHB\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjectsDetailHB\"}, \"user\": {\"intent\": \"ask_combination_of_subjects_detailHB\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_major\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_combination_of_subjects\"}}, {\"prev_action\": {\"action_name\": \"AskCombinationOfSubjects\"}, \"user\": {\"intent\": \"ask_combination_of_subjects\"}}]"
+    ]
+  }
+}

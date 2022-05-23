@@ -1,0 +1,177 @@
+version: "3.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - ê
+    - chào bạn
+    - xin chào
+    - có ai không
+    - chào admin
+    - chào bạn
+    - hello
+    - hé lô
+    - chào
+    - cho mình hỏi
+    - chào bạn nha
+
+- intent: goodbye
+  examples: |
+    - tạm biệt
+    - cảm ơn bạn
+    - hẹn gặp bạn
+    - chào tạm biệt
+    - bye
+    - goodbye
+    - cảm ơn admin
+    - chào nha
+    - chào
+
+- intent: affirm
+  examples: |
+    - đúng
+    - vâng
+    - đúng vậy
+    - chuẩn
+    - yes
+    - y
+    - đ
+    - d
+    - quá chuẩn
+
+- intent: deny
+  examples: |
+    - no
+    - k
+    - không
+    - không đúng
+    - không phải
+    - hong bé ơi
+    - hong phải
+    - hong
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: ask_information_university
+  examples: |
+    - cho hỏi trường mình trường gì
+    - cho hỏi thông tin trường mình với ạ
+    - cho hỏi trường mình như thế nào
+    - có mấy khoa
+    - trường mình có mấy khoa
+    - cho hỏi tt trường
+    - thông tin về trường
+    - trường này trường gì
+    - đại học này như thế nào
+    - học như thế nào
+
+- intent: ask_majors
+  examples: |
+    - thông tin trường
+    - khoa của trường
+    - các khoa của trường
+    - có mấy ngành học
+    - hiện tại trường có mấy ngành học
+    - Tìm Hiểu Thêm Về Ngành Học
+
+- intent: ask_major
+  examples: |
+    - cho hỏi về ngành [quản trị kinh doanh](cust_ask_major)
+    - ngành [khoa học máy tính](cust_ask_major)
+    - ngành [Công nghệ thông tin](cust_ask_major)
+    - ng [khoa học máy tính](cust_ask_major)
+    - ng [điện cơ ô tô](cust_ask_major)
+    - [công nghệ thông tin](cust_ask_major)
+    - cho hỏi ngành [công nghệ thực phẩm](cust_ask_major)
+    - cho hỏi ngành [điện tử viễn thông](cust_ask_major)
+    - ngành [công nghệ thực phẩm](cust_ask_major) là gì
+    - ngành học [kiến trúc](cust_ask_major)
+    - ngành [tiếng trung du lịch](cust_ask_major)
+    - ngành [tiếng nhật du lịch](cust_ask_major)
+    - thông tin ngành [tiếng nhật du lịch](cust_ask_major)
+    - thông tin ngành [Bác sĩ Răng-Hàm-Mặt](cust_ask_major)
+    - thông tin ngành [đầu tư tài chính](cust_ask_major)
+
+- intent: ask_combination_of_subjects
+  examples: |
+    - cho hỏi về tổ hợp môn học
+    - tổ hợp môn học
+    - sét tuyển tổ hợp môn học
+    - tổ hợp môn học
+
+- intent: ask_combination_of_subjects_detail
+  examples: |
+    - [toán](subject),[văn](subject),[hóa](subject),[lý](subject)
+    - [văn](subject),[sử](subject),[địa](subject)
+    - [vẽ](subject),[toán](subject)
+    - [địa lý](subject),[lịch sử](subject)
+    - [sinh học](subject),[hóa](subject)
+    - [toán](subject),[sử](subject),[địa](subject)
+    
+
+- intent: ask_combination_of_subjects_detailTHPT
+  examples: |
+    - Xét Tuyển Theo môn thi THPT
+    - Xét tuyển tổ hợp môn thpt
+    - Xét tuyển thpt
+    - Xét tuyển thi thpt
+
+- intent: ask_combination_of_subjects_detailHB
+  examples: |
+    - Xét Tuyển Theo Học Bạ
+    - Xét tuyển tổ hợp môn Học Bạ
+    - Xét tuyển Học Bạ
+    - Xét tuyển Học Bạ năm học
+
+- intent: confirm_THPT
+  examples: |
+    - THPT
+    - trung học phổ thông
+    - theo thpt
+    - theo kết quả thi thpt
+
+- intent: confirm_HB
+  examples: |
+    - HB
+    - học bạ
+    - theo học bạ
+    - kết quả học bạ

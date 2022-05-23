@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-cust_ask_major",
+      "2": "I-cust_ask_major",
+      "3": "L-cust_ask_major",
+      "4": "U-cust_ask_major",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-cust_ask_major": 1,
+      "I-cust_ask_major": 2,
+      "L-cust_ask_major": 3,
+      "U-cust_ask_major": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]

@@ -1,0 +1,52 @@
+version: "3.0"
+
+rules:
+
+- rule: ask information university any time
+  steps:
+  - intent: ask_information_university
+  - action: action_university_information
+
+- rule: ask majors any time
+  steps:
+  - intent: ask_majors
+  - action: action_all_majors
+
+- rule: ask major any time
+  steps:
+    - intent: ask_major
+    - action: action_major
+
+
+- rule: ask combination of subjects
+  steps:
+    - intent: ask_combination_of_subjects
+    - action: AskCombinationOfSubjects
+
+
+- rule: ask combination of subjects detail THPT
+  steps:
+    - intent: ask_combination_of_subjects_detailTHPT
+    - action: AskCombinationOfSubjectsDetailTHPT
+
+
+- rule: ask combination of subjects detail HB
+  steps:
+    - intent: ask_combination_of_subjects_detailHB
+    - action: AskCombinationOfSubjectsDetailHB
+
+
+- rule: ask combination of subjects detail
+  steps:
+    - intent: ask_combination_of_subjects_detail
+    - action: AskCombinationOfSubjectsDetail
+
+- rule: ask combination of subjects detail confirm_THPT
+  steps:
+    - intent: confirm_THPT
+    - action: AskCombinationOfSubjectsDetailConfirmTHPT
+
+- rule: ask combination of subjects detail confirm_HB
+  steps:
+    - intent: confirm_HB
+    - action: AskCombinationOfSubjectsDetailConfirmHB
